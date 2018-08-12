@@ -29,7 +29,7 @@
     "react-universal-component": "^3.0.0",
     "redux": "^3.7.2",
     "redux-devtools-extension": "^2.13.2",
-    "rudy": "../../",
+    "rudy": "git://github.com/DavOnGit/redux-first-router#ce8a859",
     "serve-favicon": "^2.4.5",
     "source-map-support": "^0.5.6",
     "webpack-flush-chunks": "^2.0.1"

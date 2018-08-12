@@ -6437,8 +6437,9 @@ rsvp@^3.3.3:
   version "3.6.2"
   resolved "https://registry.yarnpkg.com/rsvp/-/rsvp-3.6.2.tgz#2e96491599a96cde1b515d5674a8f7a91452926a"
 
-rudy@../../:
+"rudy@git://github.com/DavOnGit/redux-first-router#ce8a859":
   version "0.1.0"
+  resolved "git://github.com/DavOnGit/redux-first-router#ce8a8596aa81c5a1a4e11a2070ccba32bbdc90ce"
   dependencies:
     path-to-regexp "^2.1.0"
     prop-types "^15.6.0"
